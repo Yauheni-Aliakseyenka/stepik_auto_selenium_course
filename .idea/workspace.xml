@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="24.11 part3">
+    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="27.11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,8 @@
     "Python.lesson2_step2_alert.executor": "Run",
     "Python.lesson2_step2_execute_script.executor": "Run",
     "Python.lesson2_step2_file_upload.executor": "Run",
+    "Python.lesson2_step3_new_tabs.executor": "Run",
+    "Python.lesson2_step4_wait.executor": "Run",
     "Python.lesson2_step_2_selector_find.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -129,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732443217429</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="27.11">
+      <option name="closed" value="true" />
+      <created>1732716464704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732716464704</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +161,7 @@
     <MESSAGE value="24.11" />
     <MESSAGE value="24.11 part2" />
     <MESSAGE value="24.11 part3" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.11 part3" />
+    <MESSAGE value="27.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.11" />
   </component>
 </project>
