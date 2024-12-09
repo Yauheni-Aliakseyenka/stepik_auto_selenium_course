@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="30.11" />
+    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="06.12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,29 +31,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lesson1_step2_check.executor": "Run",
-    "Python.lesson1_step6_find_by_xpath.executor": "Run",
-    "Python.lesson1_step6_find_several_elements.executor": "Run",
-    "Python.lesson1_step6_required_field.executor": "Run",
-    "Python.lesson1_step6_search.executor": "Run",
-    "Python.lesson1_step6_search_by_link.executor": "Run",
-    "Python.lesson1_step6_task_search.executor": "Run",
-    "Python.lesson1_step6_work_with_browser.executor": "Run",
-    "Python.lesson2_step1_click_checkbox.executor": "Run",
-    "Python.lesson2_step1_find_treasure.executor": "Run",
-    "Python.lesson2_step2_alert.executor": "Run",
-    "Python.lesson2_step2_execute_script.executor": "Run",
-    "Python.lesson2_step2_file_upload.executor": "Run",
-    "Python.lesson2_step3_new_tabs.executor": "Run",
-    "Python.lesson2_step4_wait.executor": "Run",
-    "Python.lesson2_step_2_selector_find.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lesson1_step2_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_find_by_xpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_find_several_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_required_field.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_search_by_link.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_task_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_work_with_browser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step1_click_checkbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step1_find_treasure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step2_alert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step2_execute_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step2_file_upload.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step3_new_tabs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step4_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step_2_selector_find.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.venv/lesson_2" />
@@ -145,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732975796886</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="06.12">
+      <option name="closed" value="true" />
+      <created>1733497763867</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733497763867</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +179,7 @@
     <MESSAGE value="24.11 part3" />
     <MESSAGE value="27.11" />
     <MESSAGE value="30.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="30.11" />
+    <MESSAGE value="06.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="06.12" />
   </component>
 </project>
