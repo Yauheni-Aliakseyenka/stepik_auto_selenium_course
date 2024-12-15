@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="first norm commit">
+    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="14.12 unittest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lesson_1/lesson1_step6_required_field.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lesson_1/lesson1_step6_required_field.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lesson_3/lesson3_git.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_test_asserts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_unittests2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_unittests2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,33 +49,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lesson1_step2_check.executor": "Run",
-    "Python.lesson1_step6_find_by_xpath.executor": "Run",
-    "Python.lesson1_step6_find_several_elements.executor": "Run",
-    "Python.lesson1_step6_required_field.executor": "Run",
-    "Python.lesson1_step6_search.executor": "Run",
-    "Python.lesson1_step6_search_by_link.executor": "Run",
-    "Python.lesson1_step6_task_search.executor": "Run",
-    "Python.lesson1_step6_work_with_browser.executor": "Run",
-    "Python.lesson2_step1_click_checkbox.executor": "Run",
-    "Python.lesson2_step1_find_treasure.executor": "Run",
-    "Python.lesson2_step2_alert.executor": "Run",
-    "Python.lesson2_step2_execute_script.executor": "Run",
-    "Python.lesson2_step2_file_upload.executor": "Run",
-    "Python.lesson2_step3_new_tabs.executor": "Run",
-    "Python.lesson2_step4_wait.executor": "Run",
-    "Python.lesson2_step_2_selector_find.executor": "Run",
-    "Python.lesson3_step2_test_asserts.executor": "Run",
-    "Python.lesson3_step2_test_asserts3.executor": "Run",
-    "Python.lesson3_step2_unittests.executor": "Run",
-    "Python.lesson3_step2_unittests2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "test__branch",
-    "last_opened_file_path": "/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lesson1_step2_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_find_by_xpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_find_several_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_required_field.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_search_by_link.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_task_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson1_step6_work_with_browser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step1_click_checkbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step1_find_treasure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step2_alert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step2_execute_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step2_file_upload.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step3_new_tabs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step4_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2_step_2_selector_find.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3_step2_test_asserts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3_step2_test_asserts3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3_step2_unittests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3_step2_unittests2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test__branch&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.venv/lesson_2" />
@@ -258,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733850734892</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="14.12 unittest">
+      <option name="closed" value="true" />
+      <created>1734177090151</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734177090151</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +303,7 @@
     <MESSAGE value="06.12" />
     <MESSAGE value="09.12" />
     <MESSAGE value="first norm commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first norm commit" />
+    <MESSAGE value="14.12 unittest" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.12 unittest" />
   </component>
 </project>
