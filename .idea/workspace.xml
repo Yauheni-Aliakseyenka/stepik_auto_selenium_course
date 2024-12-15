@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="14.12 unittest">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_unittests2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_unittests2.py" afterDir="false" />
-    </list>
+    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="15.12 unittest refactor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734177090151</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="15.12 unittest refactor">
+      <option name="closed" value="true" />
+      <created>1734267468892</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734267468892</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +283,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="test_branch" />
+                        <option value="origin/test_branch" />
                       </list>
                     </value>
                   </entry>
@@ -304,6 +309,7 @@
     <MESSAGE value="09.12" />
     <MESSAGE value="first norm commit" />
     <MESSAGE value="14.12 unittest" />
-    <option name="LAST_COMMIT_MESSAGE" value="14.12 unittest" />
+    <MESSAGE value="15.12 unittest refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.12 unittest refactor" />
   </component>
 </project>
