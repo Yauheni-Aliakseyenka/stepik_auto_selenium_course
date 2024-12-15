@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="15.12 unittest refactor" />
+    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="15.12 pytest added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_unittests2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lesson_3/test_lesson3_step2_unittests2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,33 +49,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lesson1_step2_check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_step6_find_by_xpath.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_step6_find_several_elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_step6_required_field.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_step6_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_step6_search_by_link.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_step6_task_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1_step6_work_with_browser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step1_click_checkbox.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step1_find_treasure.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step2_alert.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step2_execute_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step2_file_upload.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step3_new_tabs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step4_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson2_step_2_selector_find.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson3_step2_test_asserts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson3_step2_test_asserts3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson3_step2_unittests.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson3_step2_unittests2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;test__branch&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lesson1_step2_check.executor": "Run",
+    "Python.lesson1_step6_find_by_xpath.executor": "Run",
+    "Python.lesson1_step6_find_several_elements.executor": "Run",
+    "Python.lesson1_step6_required_field.executor": "Run",
+    "Python.lesson1_step6_search.executor": "Run",
+    "Python.lesson1_step6_search_by_link.executor": "Run",
+    "Python.lesson1_step6_task_search.executor": "Run",
+    "Python.lesson1_step6_work_with_browser.executor": "Run",
+    "Python.lesson2_step1_click_checkbox.executor": "Run",
+    "Python.lesson2_step1_find_treasure.executor": "Run",
+    "Python.lesson2_step2_alert.executor": "Run",
+    "Python.lesson2_step2_execute_script.executor": "Run",
+    "Python.lesson2_step2_file_upload.executor": "Run",
+    "Python.lesson2_step3_new_tabs.executor": "Run",
+    "Python.lesson2_step4_wait.executor": "Run",
+    "Python.lesson2_step_2_selector_find.executor": "Run",
+    "Python.lesson3_step2_test_asserts.executor": "Run",
+    "Python.lesson3_step2_test_asserts3.executor": "Run",
+    "Python.lesson3_step2_unittests.executor": "Run",
+    "Python.lesson3_step2_unittests2.executor": "Run",
+    "Python.test_lesson3_step2_unittests2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "test__branch",
+    "last_opened_file_path": "/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.venv/lesson_2" />
@@ -81,7 +85,7 @@
       <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson3_step2_unittests2">
+  <component name="RunManager" selected="Python.test_lesson3_step2_unittests2">
     <configuration name="lesson1_step6_required_field" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Lessons" />
       <option name="ENV_FILES" value="" />
@@ -104,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3_step2_unittests2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_lesson3_step2_unittests2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Lessons" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_unittests2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/lesson_3/test_lesson3_step2_unittests2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson3_step2_unittests2" />
+        <item itemvalue="Python.test_lesson3_step2_unittests2" />
         <item itemvalue="Python.lesson1_step6_required_field" />
       </list>
     </recent_temporary>
@@ -269,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734267468892</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="15.12 pytest added">
+      <option name="closed" value="true" />
+      <created>1734268834889</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734268834889</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +322,7 @@
     <MESSAGE value="first norm commit" />
     <MESSAGE value="14.12 unittest" />
     <MESSAGE value="15.12 unittest refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="15.12 unittest refactor" />
+    <MESSAGE value="15.12 pytest added" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.12 pytest added" />
   </component>
 </project>
