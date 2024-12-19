@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="15.12 pytest added">
+    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="15.12 pytest added2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lesson_3/lesson3_step2_unittests2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lesson_3/test_lesson3_step2_unittests2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734268834889</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="15.12 pytest added2">
+      <option name="closed" value="true" />
+      <created>1734269774665</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734269774665</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,6 +330,7 @@
     <MESSAGE value="14.12 unittest" />
     <MESSAGE value="15.12 unittest refactor" />
     <MESSAGE value="15.12 pytest added" />
-    <option name="LAST_COMMIT_MESSAGE" value="15.12 pytest added" />
+    <MESSAGE value="15.12 pytest added2" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.12 pytest added2" />
   </component>
 </project>
