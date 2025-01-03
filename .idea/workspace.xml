@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="15.12 pytest added2">
+    <list default="true" id="7c54e699-a0a0-47da-8fd2-b580c4be99fc" name="Changes" comment="19.12 pytest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,10 +70,13 @@
     "Python.lesson3_step2_test_asserts3.executor": "Run",
     "Python.lesson3_step2_unittests.executor": "Run",
     "Python.lesson3_step2_unittests2.executor": "Run",
+    "Python.test_abs.executor": "Run",
+    "Python.test_fixture_1.executor": "Run",
     "Python.test_lesson3_step2_unittests2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "test__branch",
-    "last_opened_file_path": "/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2"
+    "last_opened_file_path": "/Users/pluser/PycharmProjects/Selenium_Lessons/.venv/lesson_2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,7 +87,7 @@
       <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_lesson3_step2_unittests2">
+  <component name="RunManager" selected="Python.test_fixture_1">
     <configuration name="lesson1_step6_required_field" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Lessons" />
       <option name="ENV_FILES" value="" />
@@ -99,6 +102,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/lesson_1/lesson1_step6_required_field.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_abs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Lessons" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/lesson_3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/lesson_3/test_abs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_fixture_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Lessons" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/lesson_3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/lesson_3/test_fixture_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,6 +178,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_fixture_1" />
+        <item itemvalue="Python.test_abs" />
         <item itemvalue="Python.test_lesson3_step2_unittests2" />
         <item itemvalue="Python.lesson1_step6_required_field" />
       </list>
@@ -288,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734269774665</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="19.12 pytest">
+      <option name="closed" value="true" />
+      <created>1734620292853</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1734620292853</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,6 +388,7 @@
     <MESSAGE value="15.12 unittest refactor" />
     <MESSAGE value="15.12 pytest added" />
     <MESSAGE value="15.12 pytest added2" />
-    <option name="LAST_COMMIT_MESSAGE" value="15.12 pytest added2" />
+    <MESSAGE value="19.12 pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="19.12 pytest" />
   </component>
 </project>
